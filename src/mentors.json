@@ -8023,5 +8023,37 @@
         "id": "faithmorante.netlify.com"
       }
     ]
+  },
+  {
+    "id": "tony@brix.ninja",
+    "name": "Tony Brix",
+    "avatar": "https://avatars2.githubusercontent.com/u/97994?s=460&v=4",
+    "title": "Web/Database Developer",
+    "description": "I love learning new languages and finding unique ways to solve problems.",
+    "country": "US",
+    "spokenLanguages": [
+      "en"
+    ],
+    "tags": [
+      "fullstack",
+      "php",
+      "javascript",
+      "nodejs",
+      "sql"
+    ],
+    "channels": [
+      {
+        "type": "twitter",
+        "id": "tonybrix"
+      },
+      {
+        "type": "github",
+        "id": "UziTech"
+      },
+      {
+        "type": "website",
+        "id": "tony.brix.ninja"
+      }
+    ]
   }
 ]
